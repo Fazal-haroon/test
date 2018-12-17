@@ -5,4 +5,4 @@ if hungry == 'yes':
     print("remember junk food not good for health")
 else:
     print("do your homework")
-    print("life is good so for")
+    print("life is good so for    ")

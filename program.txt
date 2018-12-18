@@ -1,4 +1,5 @@
 
 
 welcome to simple coding 
-1st progeam about input and print
+1st program about input and print
+2nd program will be advance coding
